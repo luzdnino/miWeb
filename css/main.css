@@ -1,9 +1,16 @@
-body{background: white;
-	color: black;
-	}
-	h1{font-size:20px;
-	margin-bottom: 10px 
-	}
-	p{
-		color: gray;
-	}
+container{	
+max-width: : 1000px
+margin: 0 auto
+}
+
+header{
+	display: flex: 
+	align-items: center
+	justify-content: between
+}
+
+ul{
+	display: flex: 
+	align-items: center
+
+}
