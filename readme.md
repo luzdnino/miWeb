@@ -12,11 +12,3 @@ Paso 1
 Paso 2
  
 
-## Subtitulo
-
-Abcdef
-
-- item
-- item
-- item
-- item
